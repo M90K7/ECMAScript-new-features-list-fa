@@ -24,12 +24,12 @@ https://github.com/tc39
 https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4
 
 </p>
+
 ---
-This repo will be **updated** with future ES releases.
 
 ویژگی‌های جدید هم در سریعترین مدت امکان  بروزرسانی خواهد شد
 
 در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** مطرح نمایید.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTg4ODAwOCwtNDc5NDM0Njk1XX0=
+eyJoaXN0b3J5IjpbOTA1NDg1NjEsLTQ3OTQzNDY5NV19
 -->
