@@ -1,6 +1,6 @@
 # ECMAScript-new-features-list
 
-<div dir="rtl" style="text-align:right">
+<div dir="rtl">
 لیست مقایسه‌ای از ویژگی های جدید ES که شامل نسخه های ذیل می باشد.
 <div>
 
@@ -31,5 +31,5 @@ https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8
 
 در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** مطرح نمایید.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NDg1NjEsLTQ3OTQzNDY5NV19
+eyJoaXN0b3J5IjpbLTEwOTU4NTMxNjgsLTQ3OTQzNDY5NV19
 -->
