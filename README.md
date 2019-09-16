@@ -31,7 +31,3 @@
 ویژگی‌های جدید هم در سریعترین مدت امکان  بروزرسانی خواهد شد
 
 در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** یا هرطور توحالتون هست مطرح نمایید.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTg5NjMzNywtMTQxMzc0NDgwNywtND
-g0NDI0ODI5LC00Nzk0MzQ2OTVdfQ==
--->
