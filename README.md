@@ -25,7 +25,7 @@ This repo will be **updated** with future ES releases.
 
 ویژگی‌های جدید در همین مکان بروزرسانی خواهد شد
 
-If you find mistakes or would like to contribute examples/ descriptions, please open an **issue** or **pull request**.
+در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** بزنید.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNjE1NjY3LC00Nzk0MzQ2OTVdfQ==
+eyJoaXN0b3J5IjpbLTM3Njk0MDE1MiwtNDc5NDM0Njk1XX0=
 -->
