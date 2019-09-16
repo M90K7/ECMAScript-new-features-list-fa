@@ -12,6 +12,9 @@
 ---
 
 میتونید موارد زیر رو هم بررسی کنید:
+
+<p dir="ltr">
+
 https://jsfeatures.in/
 
 https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/
@@ -20,6 +23,7 @@ https://github.com/tc39
 
 https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4
 
+</p>
 ---
 This repo will be **updated** with future ES releases.
 
@@ -27,5 +31,5 @@ This repo will be **updated** with future ES releases.
 
 در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** مطرح نمایید.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ2NDg1NTksLTQ3OTQzNDY5NV19
+eyJoaXN0b3J5IjpbMTY3OTg4ODAwOCwtNDc5NDM0Njk1XX0=
 -->
