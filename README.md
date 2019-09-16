@@ -1,6 +1,6 @@
 # ECMAScript-new-features-list
 <div dir="rtl" style="text-align:right">
-لیست مقایسه‌ای از ویژگی های جدید ES که شامل نسخه های ES6, ES7, ES8, ES9 and ES10 (2015-2019)
+لیست مقایسه‌ای از ویژگی های جدید ES که شامل نسخه های ذیل می باشد.
 <div>
 
 * [ES2015 (ES6) feature list and examples](ES2015.MD)
@@ -25,5 +25,5 @@ This repo will be **updated** with future ES releases.
 
 If you find mistakes or would like to contribute examples/ descriptions, please open an **issue** or **pull request**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NTc3ODY4LDIyNDQ1Njc5NV19
+eyJoaXN0b3J5IjpbODQxNzM0NDExLDIyNDQ1Njc5NV19
 -->
