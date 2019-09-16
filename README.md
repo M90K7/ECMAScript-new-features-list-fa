@@ -13,7 +13,7 @@
 
 میتونید موارد زیر رو هم بررسی کنید:
 
-<p dir="ltr">
+<div dir="ltr">
 
 https://jsfeatures.in/
 
@@ -23,7 +23,7 @@ https://github.com/tc39
 
 https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4
 
-</p>
+</div>
 
 ---
 
@@ -31,5 +31,5 @@ https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8
 
 در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** مطرح نمایید.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU4NTMxNjgsLTQ3OTQzNDY5NV19
+eyJoaXN0b3J5IjpbNDk1NzMyOTc2LC00Nzk0MzQ2OTVdfQ==
 -->
