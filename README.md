@@ -10,8 +10,8 @@
 * [ES2018 (ES9) feature list and examples](ES2018.MD)
 * [ES2019 (ES10) feature list and examples](ES2019.MD)
 ---
-میتونید موارد زیر رو هم بررسی کنید:
 
+میتونید موارد زیر رو هم بررسی کنید:
 https://jsfeatures.in/
 
 https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/
@@ -23,7 +23,9 @@ https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8
 ---
 This repo will be **updated** with future ES releases.
 
+ویژگی‌های جدید در همین مکان بروزرسانی خواهد شد
+
 If you find mistakes or would like to contribute examples/ descriptions, please open an **issue** or **pull request**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5Mjk2MTY5LC00Nzk0MzQ2OTVdfQ==
+eyJoaXN0b3J5IjpbMjgxNjE1NjY3LC00Nzk0MzQ2OTVdfQ==
 -->
