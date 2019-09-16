@@ -9,9 +9,8 @@
 * [ES2017 (ES8) feature list and examples](ES2017.MD)
 * [ES2018 (ES9) feature list and examples](ES2018.MD)
 * [ES2019 (ES10) feature list and examples](ES2019.MD)
-
 ---
-Also check out:
+میتونید موارد زیر رو هم بررسی کنید:
 
 https://jsfeatures.in/
 
@@ -26,5 +25,5 @@ This repo will be **updated** with future ES releases.
 
 If you find mistakes or would like to contribute examples/ descriptions, please open an **issue** or **pull request**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTQzNDY5NV19
+eyJoaXN0b3J5IjpbMjQ5Mjk2MTY5LC00Nzk0MzQ2OTVdfQ==
 -->
