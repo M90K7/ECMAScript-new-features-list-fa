@@ -29,7 +29,8 @@ https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8
 
 ویژگی‌های جدید هم در سریعترین مدت امکان  بروزرسانی خواهد شد
 
-در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse**  مطرح نمایید.
+در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** س مطرح نمایید.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDE0NjExOCwtNDc5NDM0Njk1XX0=
+eyJoaXN0b3J5IjpbLTQ4NDQyNDgyOSwtNTcwMTQ2MTE4LC00Nz
+k0MzQ2OTVdfQ==
 -->
