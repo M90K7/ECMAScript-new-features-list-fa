@@ -9,19 +9,20 @@
 * [ES2017 (ES8) feature list and examples](ES2017.MD)
 * [ES2018 (ES9) feature list and examples](ES2018.MD)
 * [ES2019 (ES10) feature list and examples](ES2019.MD)
+
 ---
 
 میتونید موارد زیر رو هم بررسی کنید:
 
 <div dir="ltr">
 
-https://jsfeatures.in/
+<https://jsfeatures.in/>
 
-https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/
+<https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/>
 
-https://github.com/tc39
+<https://github.com/tc39>
 
-https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4
+<https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4>
 
 </div>
 
