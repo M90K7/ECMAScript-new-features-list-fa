@@ -1,4 +1,5 @@
 # ECMAScript-new-features-list
+
 <div dir="rtl" style="text-align:right">
 لیست مقایسه‌ای از ویژگی های جدید ES که شامل نسخه های ذیل می باشد.
 <div>
@@ -25,5 +26,5 @@ This repo will be **updated** with future ES releases.
 
 If you find mistakes or would like to contribute examples/ descriptions, please open an **issue** or **pull request**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNzM0NDExLDIyNDQ1Njc5NV19
+eyJoaXN0b3J5IjpbLTQ3OTQzNDY5NSwyMjQ0NTY3OTVdfQ==
 -->
