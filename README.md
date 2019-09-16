@@ -23,9 +23,9 @@ https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8
 ---
 This repo will be **updated** with future ES releases.
 
-ویژگی‌های جدید در همین مکان بروزرسانی خواهد شد
+ویژگی‌های جدید هم در سریعترین مدت امکان  بروزرسانی خواهد شد
 
-در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** بزنید.
+در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** مطرح نمایید.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Njk0MDE1MiwtNDc5NDM0Njk1XX0=
+eyJoaXN0b3J5IjpbLTE4MzQ2NDg1NTksLTQ3OTQzNDY5NV19
 -->
