@@ -1,5 +1,9 @@
 # ECMAScript-new-features-list
+<div dir="rtl">
 A comprehensive list of new ES features, including ES6, ES7, ES8, ES9 and ES10 (2015-2019)
+
+لیست مقایسه‌ای از ویژگی های جدید 
+<div>
 
 * [ES2015 (ES6) feature list and examples](ES2015.MD)
 * [ES2016 (ES7) feature list and examples](ES2016.MD)
@@ -23,5 +27,5 @@ This repo will be **updated** with future ES releases.
 
 If you find mistakes or would like to contribute examples/ descriptions, please open an **issue** or **pull request**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NDU2Nzk1XX0=
+eyJoaXN0b3J5IjpbMzAwMDIyOTQ3LDIyNDQ1Njc5NV19
 -->
