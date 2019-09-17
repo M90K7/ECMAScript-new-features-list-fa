@@ -31,3 +31,14 @@
 ویژگی‌های جدید هم در سریعترین مدت امکان  بروزرسانی خواهد شد
 
 در صورتی که نکته‌ یا پیشنهادی دارید میتوانید بصورت **issuse** یا هرطور توحالتون هست مطرح نمایید.
+
+## توسعه‌دهندگان
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/m90k7"><img src="https://avatars3.githubusercontent.com/u/16480101?s=460&v=4" width="100px;" alt="Matan Kushner"/><br /><sub><b>Moslem Shahsavan</b></sub></a>
+    </td>
+    <td align="center"><a href="https://github.com/m90k7"><img src="https://avatars3.githubusercontent.com/u/5365683?s=460&v=4" width="100px;" alt="Matan Kushner"/><br /><sub><b>Rouhollah</b></sub></a>
+    </td>
+  </tr>
+  </table>
